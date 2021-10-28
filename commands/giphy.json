@@ -1,0 +1,12 @@
+{
+    "name": "giphy",
+    "full-name": "Giphy",
+    "description":
+        {
+        "en": "Search for a gif on giphy.com",
+        "de": "Suche nach einem Gif auf giphy.com"
+        },
+    "premissions": "default",
+    "usage": "/giphy {name}",
+    "example-usage": "/giphy spongebob"
+}

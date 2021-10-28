@@ -1,0 +1,12 @@
+{
+    "name": "movie",
+    "full-name": "Movie",
+    "description":
+        {
+        "en": "Search for a movie title.",
+        "de": "Suche nach einem Filmtitel."
+        },
+    "premissions": "default",
+    "usage": "/movie {name}",
+    "example-usage": "/movie Harry Potter"
+}

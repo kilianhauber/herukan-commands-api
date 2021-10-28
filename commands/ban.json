@@ -1,0 +1,12 @@
+{
+    "name": "ban",
+    "full-name": "Ban",
+    "description":
+        {
+        "en": "Permanently bans a user from the server.",
+        "de": "Verbannt einen Benutzer dauerhaft vom Server."
+        },
+    "premissions": "BAN_MEMBERS",
+    "usage": "/ban {@user}",
+    "example-usage": "/ban @Herukan"
+}

@@ -1,0 +1,12 @@
+{
+    "name": "unban",
+    "full-name": "Unban",
+    "description":
+        {
+        "en": "Unbans a user from the server.",
+        "de": "Entbannt einen Benutzer vom Server."
+        },
+    "premissions": "BAN_MEMBERS",
+    "usage": "/unban {user}",
+    "example-usage": "/unban Herukan"
+}

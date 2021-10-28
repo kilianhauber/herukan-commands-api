@@ -1,0 +1,12 @@
+{
+    "name": "meme",
+    "full-name": "Meme",
+    "description":
+        {
+        "en": "Creates a meme.",
+        "de": "Erzeugt ein Meme."
+        },
+    "premissions": "default",
+    "usage": "/meme {image} {top-text} {bottom-text}",
+    "example-usage": "/meme Bad-Luck-Brian Toptext Bottomtext"
+}

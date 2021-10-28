@@ -1,0 +1,12 @@
+{
+    "name": "minecraft",
+    "full-name": "Minecraft",
+    "description":
+        {
+        "en": "Get a user's skin, or find out about a Minecraft server.",
+        "de": "Bekomme den Skin eines Benutzers, oder informiere dich über einen Minecraft-Server."
+        },
+    "premissions": "default",
+    "usage": "/minecraft skin {username} \n/minecraft server {ip}",
+    "example-usage": "/movie skin KillCrafter1 \n/minecraft server hypixel.net"
+}

@@ -1,0 +1,12 @@
+{
+    "name": "tempban",
+    "full-name": "Tempban",
+    "description":
+        {
+        "en": "Temporarily bans a user from the server.",
+        "de": "Verbannt einen Benutzer vorübergehend vom Server."
+        },
+    "premissions": "BAN_MEMBERS",
+    "usage": "/tempban {@user} {time}",
+    "example-usage": "/tempban @Herukan 2d"
+}

@@ -1,0 +1,12 @@
+{
+    "name": "8ball",
+    "full-name": "8Ball",
+    "description":
+        {
+        "en": "Ask the 8ball a question",
+        "de": "Stelle dem 8Ball eine Frage."
+        },
+    "premissions": "default",
+    "usage": "/8ball {question}",
+    "example-usage": "/8ball Are you stupid?"
+}

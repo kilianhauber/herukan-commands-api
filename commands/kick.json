@@ -1,0 +1,12 @@
+{
+    "name": "kick",
+    "full-name": "Kick",
+    "description":
+        {
+        "en": "Kicks a user from the server.",
+        "de": "Kickt einen Benutzer vom Server."
+        },
+    "premissions": "KICK_MEMBERS",
+    "usage": "/kick {@user}",
+    "example-usage": "/kick @Herukan"
+}
